@@ -12,7 +12,6 @@
 ## Course 1 : [***Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
 * In this course, the foundations of deep learning were covered. The major learnings after completing this course were :
-    
     * Understood the major technology trends driving Deep Learning.
     * Been able to build, train and apply **Fully Connected Deep Neural Networks**. 
     * Leant how to implement efficient **(Vectorized)** neural networks. 
@@ -37,7 +36,7 @@
     * Been able to implement a neural network in **TensorFlow**. 
  
  ### Programming Assignments:
- * The assignments of this course are in the folder  **Course 1** and it consits of the following assignments:
+ * The assignments of this course are in the folder  **Course 2** and it consits of the following assignments:
      * Initialization : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%202/Initialization.ipynb)
      * Regularization : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%202/Regularization_v2a.ipynb)
      * Gradient Checking : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%202/Gradient%2BChecking%2Bv1.ipynb)
@@ -48,26 +47,28 @@
 ## Course 3 : [***Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 
 * This course taught how to build a successful machine learning project. The major learning after finishing this course were as follows :
-     
     * Understood how to **Diagnose Errors** in a machine learning system, and been able to prioritize the most promising directions for reducing error.
     * Understood complex ML settings, such as **Mismatched training/test sets**, and comparing to and/or surpassing human-level performance
     * Learnt how to apply **End-To-End Learning, Transfer Learning, and Multi-Task Learning**.
         
 ## Course 4 : [***Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
-   * This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images. 
-   * When you finish this class,you will:
-      * Understand how to build a convolutional neural network, including recent variations such as residual networks.
-      * Know how to apply convolutional networks to visual detection and recognition tasks.
-      * Know to use neural style transfer to generate art.
-      * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
-    * Programming Assignments:
-      * Convolutional Model:step by step   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/ConvolutionmodeStepbyStepv1.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Convolution%20model%20Step%20by%20Step%20v1.py.html)
-      * Convolution model Application    [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Convolution%20model%20Application%20v1.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Convolution%20model%20Application%20v1.py.html)
-      * Keras Tutorial Happy House       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Keras%20Tutorial%20Happy%20House%20v2.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Keras%20Tutorial%20Happy%20House%20v2.py.html)
-      * Residual Networks       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Residual%20Networks%20.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Residual%20Networks%20.py.html)
-      * Autonomous driving application Car detection       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Autonomous%20driving%20application%20Car%20detection.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Autonomous%20driving%20application%20Car%20detection.py.html)
-      * Art Generation with Neural Style Transfer       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Art%20Generation%20with%20Neural%20Style%20Transfer.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Art%20Generation%20with%20Neural%20Style%20Transfer.py.html)
-      * Face Recognition for the Happy House       [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Face%20Recognition%20for%20the%20Happy%20House.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Face%20Recognition%20for%20the%20Happy%20House.py.html)
+
+* This course taught how to build **Convolutional Neural Networks** and apply it to image data. The major learnings after completing this course were :
+    * Understand how to build a convolutional neural network, including recent variations such as residual networks.
+    * Know how to apply convolutional networks to visual detection and recognition tasks.
+    * Know to use neural style transfer to generate art.
+    * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
+    
+### Programming Assignments:
+* The assignments of this course are in the folder  **Course 4** and it consits of the following assignments:
+      * Convolutional Model:step by step : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Convolution_model_Step_by_Step_v2a.ipynb)
+      * Convolution model Application : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Convolution_model_Application_v1a.ipynb)
+      * Keras Tutorial Happy House : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Keras_Tutorial_v2a.ipynb)
+      * Residual Networks : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Residual_Networks_v2a.ipynb)
+      * Autonomous driving application Car detection : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Autonomous_driving_application_Car_detection_v3a.ipynb)
+      * Art Generation with Neural Style Transfer : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+      * Face Recognition for the Happy House : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Face_Recognition_v3a.ipynb)
+      
 * [***Sequence Models***](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
    * This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this is enabling numerous exciting applications in speech recognition, music synthesis, chatbots, machine translation, natural language understanding, and many others. 
    * When you finish this class,you will:
