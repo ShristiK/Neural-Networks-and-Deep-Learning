@@ -12,10 +12,10 @@
 ## Course 1 : [***Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
 * In this course, the foundations of deep learning were covered. The major learnings after completing this course were :
-    * Understood the major technology trends driving Deep Learning
-    * Been able to build, train and apply **Fully Connected deep neural networks** 
-    * Leant how to implement efficient **(Vectorized)** neural networks 
-    * Understood the key parameters in a neural network's architecture 
+    * Understood the major technology trends driving Deep Learning.
+    * Been able to build, train and apply **Fully Connected Deep Neural Networks**. 
+    * Leant how to implement efficient **(Vectorized)** neural networks. 
+    * Understood the key parameters in a neural network's architecture. 
     * This course also taught how Deep Learning actually works, rather than presenting only a cursory or surface-level description. 
     
 ### Programming Assignments:
@@ -30,9 +30,9 @@
 
 * After finishing the course the major takeaways were:
     * Understood industry best-practices for building deep learning applications. 
-    * Been able to effectively use the common neural network "tricks", including **Initialization, L2 and Dropout Regularization, Batch Normalization, Gradient Checking.** 
+    * Been able to effectively use the common neural network "tricks", including **Initialization, L2 and Dropout Regularization, Batch Normalization, Gradient Checking**. 
     * Been able to implement and apply a variety of optimization algorithms, such as **mini-batch Gradient Descent, Momentum, RMSprop and Adam**, and check for their convergence. 
-    * Understand new best-practices for the deep learning era of how to set up **train/dev/test sets** and analyze **Bias/Variance**
+    * Understand new best-practices for the deep learning era of how to set up **train/dev/test sets** and analyze **Bias/Variance**.
     * Been able to implement a neural network in **TensorFlow**. 
  
  ### Programming Assignments:
@@ -44,13 +44,14 @@
      * Tensorflow Tutorial : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%202/TensorFlow_Tutorial_v3b.ipynb)
      
      
-* [***Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
-    * You will learn how to build a successful machine learning project. If you aspire to be a technical leader in AI, and know how to set direction for your team's work, this course will show you how.Much of this content has never been taught elsewhere, and is drawn from my experience building and shipping many deep learning products. This course also has two "flight simulators" that let you practice decision-making as a machine learning project leader. This provides "industry experience" that you might otherwise get only after years of ML work experience.
-    * When you finish this class, you will:
-        * Understand how to diagnose errors in a machine learning system, and be able to prioritize the most promising directions for reducing error.
-        * Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
-        * Know how to apply end-to-end learning, transfer learning, and multi-task learning
-* [***Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+## Course 3 : [***Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
+
+This course taught how to build a successful machine learning project. The major learning after finishing this course were as follows :
+     * Understood how to **Diagnose Errors** in a machine learning system, and been able to prioritize the most promising directions for reducing error.
+     * Understood complex ML settings, such as **Mismatched training/test sets**, and comparing to and/or surpassing human-level performance
+     * Learnt how to apply **End-To-End Learning, Transfer Learning, and Multi-Task Learning**.
+        
+## Course 4 : [***Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
    * This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images. 
    * When you finish this class,you will:
       * Understand how to build a convolutional neural network, including recent variations such as residual networks.
