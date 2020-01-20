@@ -61,13 +61,13 @@
     
 ### Programming Assignments:
 * The assignments of this course are in the folder  **Course 4** and it consits of the following assignments:
-      * Convolutional Model:step by step : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Convolution_model_Step_by_Step_v2a.ipynb)
-      * Convolution model Application : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Convolution_model_Application_v1a.ipynb)
-      * Keras Tutorial Happy House : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Keras_Tutorial_v2a.ipynb)
-      * Residual Networks : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Residual_Networks_v2a.ipynb)
-      * Autonomous driving application Car detection : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Autonomous_driving_application_Car_detection_v3a.ipynb)
-      * Art Generation with Neural Style Transfer : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
-      * Face Recognition for the Happy House : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Face_Recognition_v3a.ipynb)
+    * Convolutional Model:step by step : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Convolution_model_Step_by_Step_v2a.ipynb)
+    * Convolution model Application : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Convolution_model_Application_v1a.ipynb)
+    * Keras Tutorial Happy House : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Keras_Tutorial_v2a.ipynb)
+    * Residual Networks : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Residual_Networks_v2a.ipynb)
+    * Autonomous driving application Car detection : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Autonomous_driving_application_Car_detection_v3a.ipynb)
+    * Art Generation with Neural Style Transfer : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+    * Face Recognition for the Happy House : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%204/Face_Recognition_v3a.ipynb)
       
 * [***Sequence Models***](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
    * This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this is enabling numerous exciting applications in speech recognition, music synthesis, chatbots, machine translation, natural language understanding, and many others. 
