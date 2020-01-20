@@ -2,6 +2,7 @@
 <p align="center"> <b>Shristi Kumari(BITS Pilani)</b> </p>
 
 * This is my assignment on Andrew Ng's "[***Deep Learning Specialization***](https://www.coursera.org/specializations/deep-learning)"; a 5 course specialization consisting of the following: 
+
     * [***Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)  
     * [***Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
     * [***Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
@@ -20,21 +21,11 @@
 ### Programming Assignments:
 * The assignments of this course are in the folder  **Course 1** and following is a brief description of the each one of them:
     * Python Basics with Numpy : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%201/Python_Basics_With_Numpy_v3a.ipynb)
-      
-      This exercise gives a brief introduction to Python. 
     * Logistic Regression with a Neural Network mindset : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%201/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
-      
-      The aim of this exercise is to build a logistic regression classifier to recognize cats.
     * Planar data classification with one hidden layer : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%201/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
-      
-      In this the task was to fit a neural network to correctly classify red and blue points of a floweer by building a neural network model with a hidden layer.
     * Building your Deep Neural Network Step by Step : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%201/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
-      
-      Implemented all the building blocks of a neural network which can be used to build a neural network of any architecture.
     * Deep Neural Network Application : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%201/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
-      
-      Built a Deep Neural Network, and applied it to cat vs non-cat classification problem.
-        
+    
 * [***Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
     * When you finish this class, you will:
         * Understand industry best-practices for building deep learning applications. 
