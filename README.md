@@ -47,10 +47,11 @@
      
 ## Course 3 : [***Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 
-This course taught how to build a successful machine learning project. The major learning after finishing this course were as follows :
-     * Understood how to **Diagnose Errors** in a machine learning system, and been able to prioritize the most promising directions for reducing error.
-     * Understood complex ML settings, such as **Mismatched training/test sets**, and comparing to and/or surpassing human-level performance
-     * Learnt how to apply **End-To-End Learning, Transfer Learning, and Multi-Task Learning**.
+* This course taught how to build a successful machine learning project. The major learning after finishing this course were as follows :
+     
+    * Understood how to **Diagnose Errors** in a machine learning system, and been able to prioritize the most promising directions for reducing error.
+    * Understood complex ML settings, such as **Mismatched training/test sets**, and comparing to and/or surpassing human-level performance
+    * Learnt how to apply **End-To-End Learning, Transfer Learning, and Multi-Task Learning**.
         
 ## Course 4 : [***Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
    * This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images. 
