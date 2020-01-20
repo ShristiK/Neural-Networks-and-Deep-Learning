@@ -13,33 +13,37 @@
 
 * In this course, the foundations of deep learning were covered. The major learnings after completing this course were :
     * Understood the major technology trends driving Deep Learning
-    * Be able to build, train and apply fully connected deep neural networks 
-    * Leant how to implement efficient (vectorized) neural networks 
+    * Been able to build, train and apply **Fully Connected deep neural networks** 
+    * Leant how to implement efficient **(Vectorized)** neural networks 
     * Understood the key parameters in a neural network's architecture 
     * This course also taught how Deep Learning actually works, rather than presenting only a cursory or surface-level description. 
     
 ### Programming Assignments:
-* The assignments of this course are in the folder  **Course 1** and following is a brief description of the each one of them:
+* The assignments of this course are in the folder  **Course 1** and it consits of the following assignments:
     * Python Basics with Numpy : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%201/Python_Basics_With_Numpy_v3a.ipynb)
     * Logistic Regression with a Neural Network mindset : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%201/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
     * Planar data classification with one hidden layer : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%201/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
     * Building your Deep Neural Network Step by Step : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%201/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
     * Deep Neural Network Application : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%201/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
     
-* [***Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
-    * When you finish this class, you will:
-        * Understand industry best-practices for building deep learning applications. 
-        * Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch normalization, gradient checking, 
-        * Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence. 
-        * Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
-        * Be able to implement a neural network in TensorFlow. 
-    * Programming Assignments:
-        * Initialization   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Initialization.ipynb)    [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Initialization.py)
-        * Regularization   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Regularization.ipynb)   [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Regularization.py)
-        * Gradient Checking   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Gradient%20Checking.ipynb)   [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Gradient%20Checking.py)
-        * Optimization   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Optimization%20methods.ipynb)   [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Optimization%20methods.py)
-        * Tensorflow Tutorial   [[notebook]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/notebook/Tensorflow%20Tutorial.ipynb)   [[py]](https://github.com/fanghao6666/neural-networks-and-deep-learning/blob/master/py/Tensorflow%20Tutorial.py)
-        
+## Course 2 : [***Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
+
+* After finishing the course the major takeaways were:
+    * Understood industry best-practices for building deep learning applications. 
+    * Been able to effectively use the common neural network "tricks", including **Initialization, L2 and Dropout Regularization, Batch Normalization, Gradient Checking.** 
+    * Been able to implement and apply a variety of optimization algorithms, such as **mini-batch Gradient Descent, Momentum, RMSprop and Adam**, and check for their convergence. 
+    * Understand new best-practices for the deep learning era of how to set up **train/dev/test sets** and analyze **Bias/Variance**
+    * Been able to implement a neural network in **TensorFlow**. 
+ 
+ ### Programming Assignments:
+ * The assignments of this course are in the folder  **Course 1** and it consits of the following assignments:
+     * Initialization : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%202/Initialization.ipynb)
+     * Regularization : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%202/Regularization_v2a.ipynb)
+     * Gradient Checking : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%202/Gradient%2BChecking%2Bv1.ipynb)
+     * Optimization : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%202/Optimization_methods_v1b.ipynb)
+     * Tensorflow Tutorial : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%202/TensorFlow_Tutorial_v3b.ipynb)
+     
+     
 * [***Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
     * You will learn how to build a successful machine learning project. If you aspire to be a technical leader in AI, and know how to set direction for your team's work, this course will show you how.Much of this content has never been taught elsewhere, and is drawn from my experience building and shipping many deep learning products. This course also has two "flight simulators" that let you practice decision-making as a machine learning project leader. This provides "industry experience" that you might otherwise get only after years of ML work experience.
     * When you finish this class, you will:
