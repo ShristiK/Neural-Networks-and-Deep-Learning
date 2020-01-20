@@ -12,6 +12,7 @@
 ## Course 1 : [***Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
 * In this course, the foundations of deep learning were covered. The major learnings after completing this course were :
+    
     * Understood the major technology trends driving Deep Learning.
     * Been able to build, train and apply **Fully Connected Deep Neural Networks**. 
     * Leant how to implement efficient **(Vectorized)** neural networks. 
