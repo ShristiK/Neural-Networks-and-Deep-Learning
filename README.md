@@ -78,13 +78,13 @@
     
 ### Programming Assignments :
 * The assignments of this course are in the folder  **Course 5** and it consits of the following assignments:
-    * Building a Recurrent Neural Network Step by Step : [[notebook]](
-    * Dinosaurus Island Character level language model : [[notebook]](
-    * Jazz improvisation with LSTM : [[notebook]](
-    * Operations on word vectors : [[notebook]](
-    * Emojify : [[notebook]](
-    * Neural machine translation with attention : [[notebook]](
-    * Trigger word detection : [[notebook]](
+    * Building a Recurrent Neural Network Step by Step : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%205/Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb)
+    * Dinosaurus Island Character level language model : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%205/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb)
+    * Jazz improvisation with LSTM : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%205/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
+    * Operations on word vectors : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%205/Operations_on_word_vectors_v2a.ipynb)
+    * Emojify : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%205/Emojify_v2a.ipynb)
+    * Neural machine translation with attention : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%205/Neural_machine_translation_with_attention_v4a.ipynb)
+    * Trigger word detection : [[notebook]](https://github.com/ShristiK/Neural-Networks-and-Deep-Learning/blob/master/Course%205/Trigger_word_detection_v1a.ipynb)
    
 
     
