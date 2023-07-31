@@ -1,5 +1,5 @@
 # Neural-Networks-and-Deep-Learning
-<p align="center"> <b>Shristi Kumari(BITS Pilani)</b> </p>
+<p align="center"> <b>Shristi Kedia(BITS Pilani)</b> </p>
 
 * This is my assignment on Andrew Ng's "[***Deep Learning Specialization***](https://www.coursera.org/specializations/deep-learning)"; a 5 course specialization consisting of the following: 
 
